@@ -64,7 +64,6 @@
     "server.commands.TeleportCommandMixin",
     "server.commands.TimeCommandMixin",
     "server.dedicated.DedicatedServerMixin",
-    "server.level.BlockMixin",
     "server.level.ChunkHolderMixin",
     "server.level.ChunkMap_TrackedEntityMixin",
     "server.level.ChunkMapMixin",
